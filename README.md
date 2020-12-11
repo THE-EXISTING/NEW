@@ -196,9 +196,11 @@ For loading state, NEW has provided loader components in 2 types:
 
 ![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2012.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2012.png?raw=true)
 
-## Download
+## How to Install
 
-You can download sketch library from <a href="https://github.com/THE-EXISTING/NEW/raw/main/Design%20Library/No%20Emotion%20Wireframe%20Library.sketch" target="_blank">here</a>.
+1. Download sketch library from <a href="https://github.com/THE-EXISTING/NEW/raw/main/Design%20Library/No%20Emotion%20Wireframe%20Library.sketch" target="_blank">here</a>.
+
+2. Open Sketch and import library via Sketch > Preferences > Library > Add Library... and add NEW library to Sketch.
 
 ## Funding
 
