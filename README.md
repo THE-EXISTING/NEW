@@ -91,7 +91,7 @@ And 3 styles of buttons:
 - Outlined
 - Text
 
-![https://raw.githubusercontent.com/THE-EXISTING/NEW/main/Assets/buttons.png](https://raw.githubusercontent.com/THE-EXISTING/NEW/main/Assets/buttons.png)
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%201.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%201.png?raw=true)
 
 ### <a name="tabs"></a> **2. Tabs**
 
@@ -102,6 +102,8 @@ Four styles of tabs are available on NEW:
 - 4 options tab
 - 5 options tab
 
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%202.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%202.png?raw=true)
+
 ### <a name="menu-bar"></a> **3. Menu Bar**
 
 Four styles of menu bars are available on NEW:
@@ -110,6 +112,8 @@ Four styles of menu bars are available on NEW:
 - 3-menu menu bars
 - 4-menu menu bars
 - 5-menu menu bars
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%203.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%203.png?raw=true)
 
 ### <a name="vertical-menu-bar"></a> **4. Vertical Menu Bar**
 
@@ -121,9 +125,13 @@ In vertical menu bar has:
 - **Menu** — Menu bar's main menu
 - **Sub-menu** — Subsidiary menu
 
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%204.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%204.png?raw=true)
+
 ### <a name="mocking-text"></a> **5. Mocking Text**
 
 Lorem ipsum is available on NEW! It easily to use with mocking text symbols.
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%205.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%205.png?raw=true)
 
 
 ### <a name="mocking-text"></a> **6. Dropdown list**
@@ -135,6 +143,8 @@ Creating dropdown is effortless on NEW. We provided dropdown list in 4 types:
 - 4 options dropdown list
 - 5 options dropdown list
 
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%206.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%206.png?raw=true)
+
 ### <a name="radios-checkboxes"></a> **7. Radios & Checkboxes**
 
 Radios and checkboxes are available in 1 components but it can use in 2 types:
@@ -142,10 +152,13 @@ Radios and checkboxes are available in 1 components but it can use in 2 types:
 - Radio/Checkbox with label
 - Radio/Checkbox without label
 
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%207.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%207.png?raw=true)
 
 ### <a name="slider"></a> **8. Slider**
 
 Slider is available for scalable contents on wireframe.
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%208.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%208.png?raw=true)
 
 ### <a name="pills"></a> **9. Pills**
 
@@ -155,18 +168,24 @@ Three styles of pills are available on NEW:
 - Medium (24px height)
 - Large (32px height)
 
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%209.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%209.png?raw=true)
+
 ### <a name="assets"></a> **10. Assets**
 
 NEW provided two types of assets. Both of them can scalable in any size!
 
 Two types of assets are available on NEW:
 
-- Image — Mocking image and icon.
-- Profile — Mocking profile image.
+- **Image** — Mocking image and icon.
+- **Profile** — Mocking profile image.
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2010.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2010.png?raw=true)
 
 ### <a name="tables"></a> **11. Tables**
 
 In NEW, table structures split into header and elements. It can be used in any cases in table.
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2011.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2011.png?raw=true)
 
 ### <a name="loader"></a> **12. Loader**
 
@@ -174,6 +193,8 @@ For loading state, NEW has provided loader components in 2 types:
 
 - Bar loader
 - Circle loader
+
+![https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2012.png?raw=true](https://github.com/THE-EXISTING/NEW/blob/main/Assets/Image%2012.png?raw=true)
 
 
 ## Funding
