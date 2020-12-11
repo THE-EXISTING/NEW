@@ -6,35 +6,35 @@
 
 [🎨 Design System](#design-system)
 
-1. [Colors] (#colors)
+1. [Colors](#colors)
 
-2. [Typography] (#typography)
+2. [Typography](#typography)
 
-3. [Components] (#components)
+3. [Components](#components)
 
-	3.1 [Buttons] (#buttons)
+	3.1 [Buttons](#buttons)
 	
-	3.2 [Tabs] (#tabs)
+	3.2 [Tabs](#tabs)
 	
-	3.3 [Menu Bar] (#menu-bar)
+	3.3 [Menu Bar](#menu-bar)
 	
-	3.4 [Vertical Menu Bar] (#vertical-menu-bar)
+	3.4 [Vertical Menu Bar](#vertical-menu-bar)
 	
-	3.5 [Mocking Text] (#mocking-text)
+	3.5 [Mocking Text](#mocking-text)
 	
-	3.6 [Dropdown List] (#dropdown-list)
+	3.6 [Dropdown List](#dropdown-list)
 	
-	3.7 [Radios & Checkboxes] (#radios-checkboxes)
+	3.7 [Radios & Checkboxes](#radios-checkboxes)
 	
-	3.8 [Slider] (#slider)
+	3.8 [Slider](#slider)
 	
-	3.9 [Pills] (#pills)
+	3.9 [Pills](#pills)
 	
-	3.10 [Assets] (#assets)
+	3.10 [Assets](#assets)
 	
-	3.11 [Tables] (#tables)
+	3.11 [Tables](#tables)
 	
-	3.12 [Loader] (#loader)
+	3.12 [Loader](#loader)
 
 # <a name="design-system"></a> **🎨 Design System**
 
