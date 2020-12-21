@@ -221,17 +221,17 @@ You can also support this project by becoming a sponsor. Your logo will show up 
 
 Thank you to all our backers! 🙏
 
-<img src="https://opencollective.com/gui-ui-guideline/tiers/backer/badge.svg?label=backer&color=brightgreen" />
+<img src="https://opencollective.com/new/tiers/backer/badge.svg?label=backer&color=brightgreen" />
 
 
 <a href="https://opencollective.com/mockk#backers" target="_blank">
-  <img src="https://opencollective.com/gui-ui-guideline/tiers/backer.svg?width=890"/>
+  <img src="https://opencollective.com/new/tiers/backer.svg?width=890"/>
 </a>
 
 ### Contributors
 
 <a href="https://github.com/THE-EXISTING/GUI/graphs/contributors" target="_blank">
-  <img src="https://opencollective.com/gui-ui-guideline/contributors.svg?width=890"/>
+  <img src="https://opencollective.com/new/contributors.svg?width=890"/>
 </a>
 
 
