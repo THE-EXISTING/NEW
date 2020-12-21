@@ -2,6 +2,8 @@
 
 ![https://raw.githubusercontent.com/erthp/NEW/main/Assets/cover.png](https://raw.githubusercontent.com/erthp/NEW/main/Assets/cover.png)
 
+No Emotion Wireframe (NEW) is no-color and no-emotional wireframe template. NEW can make any type of wireframe for desktop, tablet, or mobile simply use NEW's components or symbols.
+
 # **Table of contents**
 
 [🎨 Design System](#design-system)
