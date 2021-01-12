@@ -225,12 +225,12 @@ Thank you to all our backers! 🙏
 
 
 <a href="https://opencollective.com/mockk#backers" target="_blank">
-  <img src="https://opencollective.com/new/tiers/backer.svg?width=890"/>
+  <img src="https://opencollective.com/new-no-emotion-wireframe/tiers/backer.svg?width=890"/>
 </a>
 
 ### Contributors
 
-<a href="https://github.com/THE-EXISTING/GUI/graphs/contributors" target="_blank">
+<a href="https://github.com/THE-EXISTING/new-no-emotion-wireframe/graphs/contributors" target="_blank">
   <img src="https://opencollective.com/new/contributors.svg?width=890"/>
 </a>
 
